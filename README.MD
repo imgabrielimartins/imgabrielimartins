@@ -1,15 +1,12 @@
+<h1>Seja bem-vindo(a)!</h1>
 
-<h1>Olá! Eu sou a Gabrieli Martins </h1>
-
-<h3>Desenvolvedora Fullstack </h3>
+<h2>Desenvolvedora Fullstack </h2>
 
 <p>Sou uma desenvolvedora apaixonada por tecnologia e por transformar ideias em realidade através do código. Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento web.</p>
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-
-<p>Aqui estão algumas das tecnologias com as quais tenho trabalhado:</p>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,6 +18,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
 ---
