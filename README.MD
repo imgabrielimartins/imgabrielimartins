@@ -2,7 +2,7 @@
 
 <h2>Desenvolvedora Fullstack </h2>
 
-<p>Sou uma desenvolvedora apaixonada por tecnologia e por transformar ideias em realidade através do código. Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento web.</p>
+<p><p>Sou uma desenvolvedora apaixonada por tecnologia e por transformar ideias em realidade através do código. Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento web e buscando oportunidades desafiadoras para criar soluções escaláveis com React e Node.js.</p></p>
 
 ---
 
@@ -33,3 +33,11 @@
 ## 📊 Estatísticas do GitHub
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=imgabrielimartins&layout=compact&langs_count=8&theme=dracula)
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
