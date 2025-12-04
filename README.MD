@@ -30,11 +30,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=imgabrielimartins&layout=compact&langs_count=8&theme=dracula)
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
