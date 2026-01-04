@@ -2,7 +2,7 @@
 
 <h2>Desenvolvedora Fullstack </h2>
 
-<p><p>Sou uma desenvolvedora apaixonada por tecnologia e por transformar ideias em realidade através do código. Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento web e buscando oportunidades desafiadoras para criar soluções escaláveis com React e Node.js.</p></p>
+<p><p>Sou uma mente criativa apaixonada por transformar conceitos abstratos em realidade digital. Vejo a programação como um meio para materializar ideias inovadoras, focando sempre na excelência da entrega e no impacto que a tecnologia tem no mundo real.</p></p>
 
 ---
 
