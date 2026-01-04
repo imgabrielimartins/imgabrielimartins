@@ -1,6 +1,6 @@
 <h1>Seja bem-vindo(a)!</h1>
 
-<h2>Desenvolvedora Fullstack </h2>
+<h2>Desenvolvedora FullStack </h2>
 
 <p><p>Sou uma mente criativa apaixonada por transformar conceitos abstratos em realidade digital. Vejo a programação como um meio para materializar ideias inovadoras, focando sempre na excelência da entrega e no impacto que a tecnologia tem no mundo real.</p></p>
 
