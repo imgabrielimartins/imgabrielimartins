@@ -36,12 +36,6 @@ Trabalhar com código organizado, reutilizável e eficiente
 
 ---
 
-📌 Atualmente
-
-💡 Desenvolvendo projetos full stack para aprimorar habilidades
-
-📚 Estudando boas práticas, arquitetura e performance
-
 ## 📫 Conecte-se comigo
 
 <p>
