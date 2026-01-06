@@ -2,7 +2,7 @@
 
 <h2>Desenvolvedora FullStack </h2>
 
-<p>Sou uma desenvolvedora full stack apaixonada por tecnologia, criatividade e inovação. Vejo a programação como uma ponte entre ideias abstratas e soluções digitais reais, sempre buscando qualidade, impacto e boas práticas no desenvolvimento de software.
+<p>Sou uma desenvolvedora fullstack apaixonada por tecnologia, criatividade e inovação. Vejo a programação como uma ponte entre ideias abstratas e soluções digitais reais, sempre buscando qualidade, impacto e boas práticas no desenvolvimento de software.
 
 Tenho experiência no desenvolvimento de aplicações web completas, do front-end ao back-end, com foco em interfaces intuitivas, código limpo e soluções escaláveis.</p>
 
