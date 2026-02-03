@@ -45,6 +45,13 @@ Acredito que tecnologia é criatividade aplicada com propósito.
   </a>
 </p>
 
+
+## 🎉 Animação divertida
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
+</p>
+
+
 ---
 
 <p align="center">
