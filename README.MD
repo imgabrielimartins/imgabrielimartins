@@ -33,31 +33,13 @@ Acredito que tecnologia é criatividade aplicada com propósito.
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielimartinsdev&theme=dracula&no-bg=true&column=4&margin-w=15&title=Stars,Commit,Follower,Repositores" alt="Trophies" />
-</p>
-
----
-
-## 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielimartinsdev&show_icons=true&theme=dracula&hide_border=true&title_color=ff1493&icon_color=ff1493&text_color=ffffff&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielimartinsdev&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=ff1493&text_color=ffffff&bg_color=00000000" />
-</p>
-
----
-
 ## 🌐 Vamos nos conectar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielimartinsdev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/seu-user" target="_blank">
+  <a href="https://instagram.com/imgabrielimartins" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </p>
