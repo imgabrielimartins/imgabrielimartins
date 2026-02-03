@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=200&section=header&text=Gabrieli%20Martins&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=250&section=header&text=Gabrieli%20Martins&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=FullStack%20Developer&descSize=20&descAlignY=65" />
 </p>
 
-<h1 align="center">🌺 FullStack Developer</h1>
-
 <p align="center">
-  <b>Transformando código em experiências digitais memoráveis.</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Transformando+código+em+arte;Soluções+FullStack+Modernas;Foco+em+UX/UI;Evolução+Constante" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,24 +13,24 @@
 Sou desenvolvedora FullStack focada em criar aplicações modernas, performáticas e bem estruturadas.  
 Acredito que tecnologia é criatividade aplicada com propósito.
 
-🚀 Foco em experiência do usuário  
-🚀 Arquitetura organizada  
-🚀 Boas práticas e escalabilidade  
-🚀 Evolução constante  
+* 🚀 **UX/UI:** Foco total na experiência do usuário.
+* 🏗️ **Arquitetura:** Código limpo e escalável.
+* 🧠 **Mindset:** Aprendizado contínuo e resolução de problemas.
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,python,tailwind,git,github,figma&theme=dark" />
+</div>
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-ff1493?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-ff1493?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ff1493?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-ff1493?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-ff1493?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-ff1493?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-ff1493?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-ff1493?style=for-the-badge&logo=python&logoColor=white" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true&title_color=ff1493&icon_color=ff1493&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=ff1493&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 ---
@@ -40,8 +38,11 @@ Acredito que tecnologia é criatividade aplicada com propósito.
 ## 🌐 Vamos nos conectar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrieli-martins-a86525232/">
+  <a href="https://www.linkedin.com/in/gabrielimartinsdev/">
     <img src="https://img.shields.io/badge/LinkedIn-ff1493?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff1493?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
