@@ -31,13 +31,6 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nestjs,mysql,tailwind,bootstrap,git&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=spin" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&animation=fade" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=glitch" />
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white&animation=spin" />
-</p>
-
 ---
 
 ## 📊 Skills Progress
