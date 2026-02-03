@@ -25,11 +25,16 @@ Acredito que tecnologia é criatividade aplicada com propósito.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mysql,python,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nextjs,nestjs,mysql,tailwind,bootstrap,git&theme=dark" />
 </p>
+
+<p align="center">
+  FullStack Developer | JavaScript | TypeScript | Python | NodeJS | MySQL | HTML | CSS | React | Nest | Tailwind CSS | Bootstrap | Git | Insomnia
+</p>
+
 
 ---
 
