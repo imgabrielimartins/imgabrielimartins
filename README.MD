@@ -28,40 +28,11 @@ Acredito que tecnologia é criatividade aplicada com propósito.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nextjs,nestjs,mysql,tailwind,bootstrap,git&theme=dark" />
-</p>
-
-<p align="center">
-  FullStack Developer | JavaScript | TypeScript | Python | NodeJS | MySQL | HTML | CSS | React | Nest | Tailwind CSS | Bootstrap | Git | Insomnia
-</p>
-
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielimartinsdev&theme=dracula&no-bg=true&column=4&margin-w=15&title=Stars,Commits,Followers,Repositories" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nestjs,mysql,tailwind,bootstrap,git&theme=dark" />
 </p>
 
 ---
 
-# 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielimartinsdev&show_icons=true&theme=dracula&hide_border=true&title_color=ff1493&icon_color=ff1493&text_color=ffffff&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielimartinsdev&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=ff1493&text_color=ffffff&bg_color=00000000" />
-</p>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielimartinsdev/gabrielimartinsdev/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🌐 Vamos nos conectar
 
