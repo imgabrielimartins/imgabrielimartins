@@ -93,4 +93,3 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer&animation=twinkling"/>
 </p>
-
