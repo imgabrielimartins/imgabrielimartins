@@ -33,9 +33,6 @@ Acredito que tecnologia é criatividade aplicada com propósito.
   <a href="https://www.linkedin.com/in/gabrielimartinsdev/">
     <img src="https://img.shields.io/badge/LinkedIn-ff1493?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff1493?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
