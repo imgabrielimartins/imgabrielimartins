@@ -23,10 +23,6 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 - ⚡ Performance e boas práticas  
 - 🧠 Aprendizado contínuo e resolução estratégica de problemas  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
