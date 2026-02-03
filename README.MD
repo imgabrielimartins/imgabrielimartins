@@ -8,9 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabrielimartinsdev&label=Profile%20Views&color=ff1493&style=flat-square" />
-  <img src="https://img.shields.io/badge/💻-Coding-%23FF1493?style=flat-square&logo=visual-studio&logoColor=white&animation=fade" />
-  <img src="https://img.shields.io/badge/✨-Open%20to%20Collaborate-%23FF1493?style=flat-square&animation=glitch" />
-  <img src="https://img.shields.io/badge/🏆-GitHub-FF1493?style=flat-square&logo=github&logoColor=white&animation=spin" />
 </p>
 
 ---
