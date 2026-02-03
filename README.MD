@@ -27,31 +27,28 @@ Acredito que tecnologia é criatividade aplicada com propósito.
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mysql,python,tailwind,bootstrap,figma,mongodb,docker,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mysql,python,tailwind,bootstrap,figma&theme=dark" />
   </a>
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Link | Tech Stack |
-| :--- | :--- | :--- |
-| **Nome do Projeto 1** | [Acessar 🔗](https://github.com/gabrielimartinsdev/repo1) | `React` `Node.js` `MySQL` |
-| **Nome do Projeto 2** | [Acessar 🔗](https://github.com/gabrielimartinsdev/repo2) | `TypeScript` `Next.js` `Tailwind` |
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielimartinsdev&theme=dracula&no-bg=true&column=4&margin-w=15&title=Stars,Commit,Follower,Repositores" alt="Trophies" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 Estatísticas
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielimartinsdev&show_icons=true&theme=dracula&hide_border=true&title_color=ff1493&icon_color=ff1493&text_color=ffffff&bg_color=00000000" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielimartinsdev&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=ff1493&text_color=ffffff&bg_color=00000000" />
 </p>
 
-<h3 align="center">🐍 My Contribution Snake</h3>
+<h3 align="center">🐍 Snake Game</h3>
 <p align="center">
-  <img src="https://github.com/gabrielimartinsdev/gabrielimartinsdev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gabrielimartinsdev/gabrielimartinsdev/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 ---
@@ -65,13 +62,6 @@ Acredito que tecnologia é criatividade aplicada com propósito.
   <a href="https://instagram.com/imgabrielimartins" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:contato@gabrielimartins.dev">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quoteColor=ff1493" alt="Daily Quote" />
 </p>
 
 ---
