@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gabrieli%20Martins&fontSize=50&fontColor=ffffff&animation=twinkling&desc=FullStack%20Developer&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=250&section=header&text=Gabrieli%20Martins&fontSize=50&fontColor=ffffff&animation=twinkling&desc=FullStack%20Developer&descSize=20&descAlignY=65" />
 </p>
 
 <p align="center">
@@ -15,12 +15,13 @@
 # 💖 Sobre mim
 
 Sou desenvolvedora **FullStack** apaixonada por criar aplicações modernas, performáticas e bem estruturadas.  
-Acredito que tecnologia é **criatividade aplicada com propósito**. ✨
+Acredito que tecnologia é criatividade aplicada com propósito.
 
-- 🚀 Experiência do Usuário (UX/UI)  
-- 🏗️ Arquitetura limpa e escalável  
-- ⚡ Performance e boas práticas  
-- 🧠 Aprendizado contínuo e resolução estratégica de problemas  
+✨ Especialidades:
+- 🚀 Experiência do Usuário (UX/UI)
+- 🏗️ Arquitetura limpa e escalável
+- ⚡ Performance e boas práticas
+- 🧠 Aprendizado contínuo e resolução estratégica de problemas
 
 ---
 
@@ -32,40 +33,7 @@ Acredito que tecnologia é **criatividade aplicada com propósito**. ✨
 
 ---
 
-## 🌟 Meus Projetos Recentes
-
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| Dashboard Motorista | Rastreamento em tempo real com mapas interativos | [💻 Ver Projeto](https://github.com/gabrielimartinsdev/dashboard) |
-| E-commerce FullStack | Loja online moderna com React, Node e MySQL | [💻 Ver Projeto](https://github.com/gabrielimartinsdev/ecommerce) |
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
-</p>
-
----
-
-## 📊 Estatísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielimartinsdev&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielimartinsdev&theme=radical" />
-</p>
-
----
-
-## 🚀 Skills em Destaque
-
-**JavaScript:** 🔥🔥🔥🔥⚡️  
-**TypeScript:** 🔥🔥🔥🔥⚡️  
-**React:** 🔥🔥🔥⚡️⚡️  
-**Node.js:** 🔥🔥🔥🔥⚡️  
-**Python:** 🔥🔥⚡️⚡️⚡️  
-**UX/UI:** 💎💎💎💎💎  
-
----
-
-## 🌐 Vamos nos conectar
+# 🌐 Vamos nos conectar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielimartinsdev/" target="_blank">
@@ -79,5 +47,5 @@ Acredito que tecnologia é **criatividade aplicada com propósito**. ✨
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer"/>
 </p>
