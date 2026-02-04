@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=250&section=header&text=Gabrieli%20Martins&fontSize=50&fontColor=ffffff&animation=twinkling&desc=FullStack%20Developer&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=250&section=header&text=Gabrieli%20Martins&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=FullStack%20Developer&descSize=20&descAlignY=65" />
 </p>
 
 <p align="center">
@@ -37,10 +37,10 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielimartinsdev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=fade" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/imgabrielimartins" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&animation=fade" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -53,5 +53,5 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer&animation=fadeIn"/>
 </p>
