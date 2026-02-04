@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=250&section=header&text=Gabrieli%20Martins&fontSize=50&fontColor=ffffff&animation=twinkling&desc=FullStack%20Developer&descSize=20&descAlignY=65" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Transformando+código+em+arte;Soluções+FullStack+Modernas;Foco+em+UX%2FUI;Evolução+Constante" />
 </p>
 
