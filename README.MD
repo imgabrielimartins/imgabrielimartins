@@ -1,3 +1,4 @@
+<!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=250&section=header&text=Gabrieli%20Martins&fontSize=50&fontColor=ffffff&animation=twinkling&desc=FullStack%20Developer&descSize=20&descAlignY=65" />
 </p>
@@ -12,7 +13,10 @@
 
 ---
 
-# 💖 Sobre mim
+<!-- ================= SOBRE MIM ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=ff1493&height=120&section=header&text=💖 Sobre mim&fontSize=25&fontColor=ffffff&animation=waving"/>
+</p>
 
 Sou desenvolvedora **FullStack** apaixonada por criar aplicações modernas, performáticas e bem estruturadas.  
 Acredito que tecnologia é **criatividade aplicada com propósito**.
@@ -25,7 +29,10 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ================= TECH STACK ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=ff1493&height=120&section=header&text=🛠️ Tech Stack&fontSize=25&fontColor=ffffff&animation=waving"/>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nestjs,mysql,tailwind,bootstrap,git&theme=dark" />
@@ -33,7 +40,10 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
-# 🌐 Conecte-se comigo
+<!-- ================= CONECTE-SE ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=ff1493&height=120&section=header&text=🌐 Conecte-se comigo&fontSize=25&fontColor=ffffff&animation=waving"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielimartinsdev/" target="_blank">
@@ -52,6 +62,7 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
+<!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer&animation=twinkling"/>
 </p>
