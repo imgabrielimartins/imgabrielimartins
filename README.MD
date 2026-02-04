@@ -1,3 +1,22 @@
+<!-- Adicione no <head> do seu README (ou em HTML, se for página web) -->
+<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init({ duration: 1200 }); // duração da animação em ms
+</script>
+
+<!-- Exemplo: Adicione o atributo `data-aos` nas seções que quer animar -->
+<p align="center" data-aos="fade-up">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Transformando+código+em+arte;Soluções+FullStack+Modernas;Foco+em+UX%2FUI;Evolução+Constante" />
+</p>
+
+<p align="center" data-aos="fade-up" data-aos-delay="200">
+  <img src="https://komarev.com/ghpvc/?username=gabrielimartinsdev&label=Profile%20Views&color=ff1493&style=flat-square" />
+</p>
+
+<!-- Adicione `data-aos="fade-up"` em cada seção que quiser animar -->
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Transformando+código+em+arte;Soluções+FullStack+Modernas;Foco+em+UX%2FUI;Evolução+Constante" />
