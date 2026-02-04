@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=250&section=header&text=Gabrieli%20Martins&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=FullStack%20Developer&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=250&section=header&text=Gabrieli%20Martins&fontSize=50&fontColor=ffffff&animation=twinkling&desc=FullStack%20Developer&descSize=20&descAlignY=65" />
 </p>
 
 <p align="center">
@@ -53,5 +53,5 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer&animation=twinkling"/>
 </p>
