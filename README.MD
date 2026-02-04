@@ -47,3 +47,15 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
   </a>
 </p>
 
+---
+
+## ✨ Atividade no GitHub
+
+<p align="center">
+  <a href="https://github.com/gabrielimartinsdev">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielimartinsdev&show_icons=true&theme=radical&hide_border=false&count_private=true" />
+  </a>
+  <a href="https://github.com/gabrielimartinsdev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielimartinsdev&theme=radical" />
+  </a>
+</p>
