@@ -27,9 +27,6 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nestjs,mysql,tailwind,bootstrap,git&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Aprendendo+novas+techs+todo+dia...;Construindo+projetos+desafiadores...;Evoluindo+sempre..." />
-</p>
 
 ---
 
@@ -47,15 +44,3 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
   </a>
 </p>
 
----
-
-## ✨ Atividade no GitHub
-
-<p align="center">
-  <a href="https://github.com/gabrielimartinsdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielimartinsdev&show_icons=true&theme=radical&hide_border=false&count_private=true" />
-  </a>
-  <a href="https://github.com/gabrielimartinsdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielimartinsdev&theme=radical" />
-  </a>
-</p>
