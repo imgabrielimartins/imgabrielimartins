@@ -27,6 +27,17 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nestjs,mysql,tailwind,bootstrap,git&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Aprendendo+novas+techs+todo+dia...;Construindo+projetos+desafiadores...;Evoluindo+sempre..." />
+</p>
+
+---
+
+## 🐍 Snake Time!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="200" />
+</p>
 
 ---
 
@@ -39,8 +50,16 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
   <a href="https://instagram.com/imgabrielimartins" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Siga-me" />
   </a>
-  <a href="https://github.com/gabrielimartinsdev" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&label=Projetos" />
+
+---
+
+## ✨ Atividade no GitHub
+
+<p align="center">
+  <a href="https://github.com/imgabrielimartins">
+    <img src="https://github-readme-stats.vercel.app/api?username=imgabrielimartins&show_icons=true&theme=radical&hide_border=false&count_private=true" />
+  </a>
+  <a href="https://github.com/gabrielimartinsdev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imgabrielimartins&theme=radical" />
   </a>
 </p>
-
