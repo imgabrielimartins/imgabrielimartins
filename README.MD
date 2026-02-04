@@ -39,7 +39,3 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg?v=2">
-  <source media="(prefers-color-s
