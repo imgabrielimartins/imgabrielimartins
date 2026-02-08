@@ -57,6 +57,18 @@ Sempre construindo enquanto aprendo.
 
 ---
 
+# 📊 Performance & Atividade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imgabrielimartins&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielimartins&theme=radical" />
+</p>
+
+---
+
 # 🌐 Conecte-se comigo
 
 <p align="center">
