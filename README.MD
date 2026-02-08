@@ -21,34 +21,6 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
-# 🔥 Meu Diferencial
-
-Não entrego apenas código.
-
-Entrego:
-
-✨ Clareza na estrutura  
-✨ Organização e padronização  
-✨ Comunicação eficiente  
-✨ Mentalidade de produto  
-✨ Evolução contínua  
-
-Tecnologia muda.  
-Capacidade de aprender rápido é o que permanece.
-
----
-
-# 📚 Atualmente Estudando
-
-📌 Arquitetura de Software  
-📌 Clean Code   
-📌 Escalabilidade de APIs com Node/Nest  
-📌 Performance em aplicações React  
-
-Sempre construindo enquanto aprendo.
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
