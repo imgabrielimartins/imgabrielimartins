@@ -4,8 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabrielimartinsdev&label=Profile%20Views&color=ff1493&style=flat-square" />
-  <img src="https://img.shields.io/badge/Foco-FullStack%20Developer-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Everyday-ff69b4?style=for-the-badge" />
 </p>
 
 ---
