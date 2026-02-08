@@ -46,3 +46,5 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer&animation=fadeIn" />
