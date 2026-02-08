@@ -21,6 +21,23 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
+# 🔥 Meu Diferencial
+
+Não entrego apenas código.
+
+Entrego:
+
+✨ Clareza na estrutura  
+✨ Organização e padronização  
+✨ Comunicação eficiente  
+✨ Mentalidade de produto  
+✨ Evolução contínua  
+
+Tecnologia muda.  
+Capacidade de aprender rápido é o que permanece.
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
