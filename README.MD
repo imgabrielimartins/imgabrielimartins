@@ -9,6 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=gabrielimartinsdev&label=Profile%20Views&color=ff1493&style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Energy-Level-High%20Voltage%20Pink-ff1493?style=for-the-badge" />
+</p>
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
 
 # 💖 Sobre mim
