@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:000000&height=200&section=header&animation=fadeIn&fontAlignY=35" />
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Transformando+código+em+arte;Soluções+FullStack+Modernas;Foco+em+UX%2FUI;Evolução+Constante" />
 </p>
