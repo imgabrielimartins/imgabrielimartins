@@ -112,8 +112,4 @@ design estratégico e impacto real no negócio.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Obrigada+por+explorar+meu+universo+💖;Volte+sempre+para+novas+atualizações+✨;O+código+continua+...+🚀" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:ff1493,70:ff69b4,100:ff00cc&height=230&section=footer&text=💖%20Até%20a%20Próxima%20Missão%20Digital!%20✨&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:ff1493,70:ff69b4,100:ff00cc&height=200&section=footer&animation=twinkling&text=💖%20Obrigada%20por%20explorar%20meu%20universo!%20✨&fontSize=28&fontColor=ffffff&fontAlignY=65" />
