@@ -1,4 +1,14 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,30:ff1493,60:ff69b4,100:000000&height=250&section=header&text=✨%20Bem-Vindo(a)%20ao%20Meu%20Universo%20Digital%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Onde+código+encontra+criatividade+💻💖&descAlignY=60&descAlign=50" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=🚀+Explorando+o+universo+da+programação...;💖+Criando+experiências+digitais+incríveis...;✨+Transformando+ideias+em+código...;🎀+Bem-vindo(a)+ao+meu+mundo+tech!" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180px">
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Transformando+código+em+arte;Soluções+FullStack+Modernas;Foco+em+UX%2FUI;Evolução+Constante" />
@@ -107,3 +117,11 @@ design estratégico e impacto real no negócio.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Obrigada+por+explorar+meu+universo+💖;Volte+sempre+para+novas+atualizações+✨;O+código+continua+...+🚀" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:ff1493,70:ff69b4,100:ff00cc&height=230&section=footer&text=💖%20Até%20a%20Próxima%20Missão%20Digital!%20✨&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
