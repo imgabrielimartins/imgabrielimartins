@@ -59,6 +59,12 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imgabrielimartins&bg_color=000000&color=ff1493&line=ff69b4&point=ffffff&hide_border=true" />
+</p>
+
+--- 
+
 # 🌐 Conecte-se comigo
 
 <p align="center">
