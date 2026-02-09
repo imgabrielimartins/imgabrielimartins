@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=gabrielimartinsdev&label=Profile%20Views&color=ff1493&style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=>+Inicializando+Gabrieli+Martins...;>+Carregando+Skills...;>+Aplicando+Boas+Práticas...;>+Sistema+Pronto+🚀" />
-</p>
-
 ---
 
 # 💖 Sobre mim
