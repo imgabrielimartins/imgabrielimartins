@@ -70,6 +70,8 @@ Aplicação FullStack com autenticação, dashboard e sistema de gerenciamento.
 </a>
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
+
+<picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg"> </picture> 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=200&section=footer&animation=twinkling&text=💖%20Thanks%20for%20Visiting%20✨&fontSize=28&fontColor=ffffff&fontAlignY=65" />
