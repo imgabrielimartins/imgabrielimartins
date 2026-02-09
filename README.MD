@@ -11,17 +11,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
 
-# 🧬 SYSTEM STATUS
-
-```yaml
-name: Gabrieli Martins
-role: FullStack Developer
-focus: UX/UI + Performance
-location: Brazil
-status: Building the future in pink mode 💗
-
-
-
 # 💖 Sobre mim
 
 Desenvolvedora FullStack focada em construção de aplicações escaláveis, com atenção especial à experiência do usuário e arquitetura limpa.
