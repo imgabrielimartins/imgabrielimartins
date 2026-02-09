@@ -10,6 +10,39 @@
 
 ---
 
+# 💖 CONSOLE.LOG()
+
+```bash
+> Inicializando perfil...
+
+Nome: Gabrieli Martins
+Stack Principal: FullStack JavaScript
+Foco: Experiência + Arquitetura + Performance
+Status: Evolução Contínua 🚀
+
+
+Architecture:
+  - MVC
+  - Modular Design
+  - Clean Code
+  - RESTful APIs
+
+Frontend:
+  - React
+  - TypeScript
+  - Tailwind
+  - UX/UI Focus
+
+Backend:
+  - Node.js
+  - NestJS
+  - MySQL
+  - Estrutura Escalável
+
+
+
+---
+
 # 💖 Sobre mim
 
 Sou desenvolvedora **FullStack** apaixonada por criar aplicações modernas, performáticas e bem estruturadas.  
