@@ -8,7 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=gabrielimartinsdev&label=Profile%20Views&color=ff1493&style=flat-square" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
+
 
 # 💖 Sobre mim
 
