@@ -23,15 +23,6 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
-# 🎯 Diferenciais
-
-✔️ Código limpo e escalável  
-✔️ Pensamento orientado a produto  
-✔️ Foco em experiência do usuário  
-✔️ Organização e versionamento profissional  
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
