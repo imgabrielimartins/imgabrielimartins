@@ -110,7 +110,7 @@ design estratégico e impacto real no negócio.
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Obrigada+por+explorar+meu+universo+💖;Volte+sempre+para+novas+atualizações+✨;O+código+continua+...+🚀" />
