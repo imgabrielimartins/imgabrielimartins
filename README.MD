@@ -35,24 +35,6 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
-# 🖥️ Ambiente de Desenvolvimento
-
-🧰 VS Code  
-🔁 Git & GitHub  
-📦 Node Package Manager  
-🗄️ MySQL Workbench  
-🎨 Figma para prototipação  
-
----
-
-# 📚 Atualmente Estudando
-
-- 🔐 Segurança e autenticação avançada
-- 🧪 Testes automatizados (Jest)
-- 🏛️ Arquitetura escalável
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
