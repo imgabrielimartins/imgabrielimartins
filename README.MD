@@ -12,8 +12,7 @@
 
 # 💖 Sobre mim
 
-Sou desenvolvedora **FullStack** apaixonada por criar aplicações modernas, performáticas e bem estruturadas.  
-Acredito que tecnologia é **criatividade aplicada com propósito**.
+Desenvolvedora FullStack focada em construção de aplicações escaláveis, com atenção especial à experiência do usuário e arquitetura limpa.
 
 ✨ **Especialidades**:  
 - 🚀 Experiência do Usuário (UX/UI)  
