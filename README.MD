@@ -21,6 +21,28 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
+# 🏗️ Arquitetura & Boas Práticas
+
+✔️ Padrão MVC e arquitetura modular  
+✔️ Separação de responsabilidades  
+✔️ Integração RESTful  
+✔️ Versionamento com Git Flow  
+✔️ Modelagem relacional com MySQL  
+✔️ Componentização e reaproveitamento no React  
+✔️ Estrutura escalável com NestJS  
+
+---
+
+# 🖥️ Ambiente de Desenvolvimento
+
+🧰 VS Code  
+🔁 Git & GitHub  
+📦 Node Package Manager  
+🗄️ MySQL Workbench  
+🎨 Figma para prototipação  
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
