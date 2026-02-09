@@ -49,6 +49,8 @@ Aplicação FullStack com autenticação, dashboard e sistema de gerenciamento.
   <img src="https://streak-stats.demolab.com?user=imgabrielimartins&theme=radical&hide_border=true" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imgabrielimartins&bg_color=000000&color=ff1493&line=ff69b4&point=ffffff&hide_border=true" />
 </p>
