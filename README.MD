@@ -70,7 +70,8 @@ Aplicação FullStack com autenticação, dashboard e sistema de gerenciamento.
 </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=200&section=footer&animation=fadeIn&text=See%20You%20In%20The%20Next%20Commit%20💫&fontSize=30&fontColor=ffffff&fontAlignY=65" />
+
 
 
 <picture align="center">
