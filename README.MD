@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=200&section=footer&animation=fadeIn&text=See%20You%20In%20The%20Next%20Commit%20💫&fontSize=30&fontColor=ffffff&fontAlignY=65" />
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=250&section=header&text=✨%20Welcome%20to%20My%20Digital%20Universe%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
 
