@@ -45,6 +45,30 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
+# 🎯 Minha Missão
+
+Construir soluções tecnológicas modernas que unam performance,
+design estratégico e impacto real no negócio.
+
+---
+
+# 📚 Atualmente Estudando
+
+- 🔐 Segurança e autenticação avançada
+- 🧪 Testes automatizados (Jest)
+- 🏛️ Arquitetura escalável
+
+---
+
+# 🤝 Soft Skills
+
+✔️ Comunicação clara com times técnicos e não técnicos  
+✔️ Organização e gestão de tarefas  
+✔️ Mentalidade analítica  
+✔️ Resolução estruturada de problemas  
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
