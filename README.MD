@@ -64,6 +64,7 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=200&section=footer&animation=twinkling&text=💖%20Thank%20You%20for%20Exploring%20My%20Universe!%20✨&fontSize=28&fontColor=ffffff&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=200&section=footer&animation=twinkling&text=💖%20Thanks%20for%20Visiting%20✨&fontSize=28&fontColor=ffffff&fontAlignY=65" />
+
 
 
