@@ -22,6 +22,14 @@ Desenvolvedora FullStack focada em construção de aplicações escaláveis, com
 
 ---
 
+# 💎 Projetos em Destaque
+
+### 🚗 Plataforma de Caronas - Velo
+Aplicação FullStack com autenticação, dashboard e sistema de gerenciamento.
+🔗 [Ver projeto](https://ride-frontend-tan.vercel.app/)
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -41,6 +49,8 @@ Desenvolvedora FullStack focada em construção de aplicações escaláveis, com
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imgabrielimartins&bg_color=000000&color=ff1493&line=ff69b4&point=ffffff&hide_border=true" />
 </p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imgabrielimartins&show_icons=true&theme=radical&hide_border=true" />
 
 --- 
 
