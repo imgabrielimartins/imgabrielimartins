@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=280&section=header&text=Gabrieli%20Martins&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Pink%20Digital%20Architect&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=280&section=header&text=Gabrieli%20Martins&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FullStack%20Developer%20%7C%20" />
 
 
 <p align="center">
