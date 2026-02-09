@@ -21,7 +21,8 @@ Desenvolvedora FullStack focada em construção de aplicações escaláveis, com
 - ⚡ Performance e boas práticas  
 - 🧠 Aprendizado contínuo e resolução estratégica de problemas  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
+
 
 # 💎 Projetos em Destaque
 
@@ -30,7 +31,8 @@ Aplicação FullStack com autenticação, dashboard e sistema de gerenciamento.
 
 🔗 [Ver projeto](https://ride-frontend-tan.vercel.app/)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
+
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +40,8 @@ Aplicação FullStack com autenticação, dashboard e sistema de gerenciamento.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nestjs,mysql,tailwind,bootstrap,git&theme=dark" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
+
 
 # 📊 Performance & Atividade
 
@@ -46,13 +49,15 @@ Aplicação FullStack com autenticação, dashboard e sistema de gerenciamento.
   <img src="https://streak-stats.demolab.com?user=imgabrielimartins&theme=radical&hide_border=true" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imgabrielimartins&bg_color=000000&color=ff1493&line=ff69b4&point=ffffff&hide_border=true" />
 </p>
 
---- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
+
 
 # 🌐 Conecte-se comigo
 
