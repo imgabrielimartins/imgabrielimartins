@@ -110,4 +110,5 @@ design estratégico e impacto real no negócio.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:ff1493,70:ff69b4,100:ff00cc&height=200&section=footer&animation=twinkling&text=💖%20Obrigada%20por%20explorar%20meu%20universo!%20✨&fontSize=28&fontColor=ffffff&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=200&section=footer&anim
+
