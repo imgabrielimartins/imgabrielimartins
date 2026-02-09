@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=280&section=header&text=Gabrieli%20Martins&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FullStack%20Developer%20%7C%20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=250&section=header&text=✨%20Welcome%20to%20My%20Digital%20Universe%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
 
 <p align="center">
