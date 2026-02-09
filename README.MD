@@ -58,4 +58,4 @@ Acredito que tecnologia é **criatividade aplicada com propósito**.
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Obrigada%20por%20visitar%20meu%20perfil!&fontColor=ff1493&fontSize=30&animation=fadeIn" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff1493,100:ff69b4&height=180&section=footer&animation=twinkling" />
