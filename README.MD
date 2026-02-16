@@ -9,6 +9,14 @@
   <img src="https://komarev.com/ghpvc/?username=imgabrielimartins&label=Profile%20Views&color=ff1493&style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/FullStack-Developer-ff1493?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/UX/UI-Focused-ff69b4?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean-Architecture-ff1493?style=for-the-badge" />
+</p>
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ff69b4&height=60&section=header" />
 
 # 💖 Sobre mim
