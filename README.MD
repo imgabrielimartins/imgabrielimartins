@@ -73,10 +73,6 @@ Aplicação Full Stack desenvolvida com React, TypeScript, Vite e NestJS, com si
 
 <picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg"> </picture> 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ff69b4&height=100&section=header&animation=twinkling" />
-</p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:ff1493,100:ff69b4&height=200&section=footer&animation=fadeIn&text=See%20You%20In%20The%20Next%20Commit%20💫&fontSize=30&fontColor=ffffff&fontAlignY=65" />
 
