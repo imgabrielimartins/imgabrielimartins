@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielimartinsdev&label=Profile%20Views&color=ff1493&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=imgabrielimartins&label=Profile%20Views&color=ff1493&style=flat-square" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ff69b4&height=60&section=header" />
