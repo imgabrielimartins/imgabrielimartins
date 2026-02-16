@@ -23,6 +23,12 @@ Desenvolvedora FullStack focada em construção de aplicações escaláveis, com
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
 
+# 🏆 Certificações & Formação
+
+- 🎓 Bootcamp FullStack - Generation Brasil
+- 💻 Análise e Desenvolvimento de Sistemas (em andamento)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
 
 # 💎 Projetos em Destaque
 
