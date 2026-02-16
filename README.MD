@@ -27,9 +27,24 @@ Desenvolvedora FullStack focada em construção de aplicações escaláveis, com
 # 💎 Projetos em Destaque
 
 ### 🚗 Plataforma de Caronas - Velo
-Aplicação FullStack com autenticação, dashboard e sistema de gerenciamento.
+Aplicação Full Stack desenvolvida com React, TypeScript, Nest e banco de dados, com autenticação, dashboard e sistema completo de gerenciamento de caronas.
 
 🔗 [Ver projeto](https://ride-frontend-tan.vercel.app/)
+
+### 🎓 Dashboard CRM - Path Educ
+Sistema Full Stack para gerenciamento de estudantes e controle de bolsas, com cadastro, edição, visualização e exclusão de registros, além de identificação de bolsistas.
+
+🔗 [Ver projeto](https://crm-front-three.vercel.app/)
+
+### 🍔 Plataforma de Delivery - HealthyFood 
+Aplicação Front-End desenvolvida com React, focada em experiência do usuário intuitiva, responsiva e otimizada para navegação em plataforma de delivery.
+
+🔗 [Ver projeto](https://grupo-4-turma-javascript-10.github.io/delivery-frontend/)
+
+### 📝 Blog Pessoal
+Aplicação Full Stack desenvolvida com React, TypeScript, Vite e NestJS, com sistema de autenticação, CRUD de postagens e integração com API REST, aplicando boas práticas de arquitetura e organização de código.
+
+🔗 [Ver projeto](https://blogpessoal-react-7pda.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
 
