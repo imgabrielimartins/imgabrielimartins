@@ -78,6 +78,9 @@ Aplicação Full Stack desenvolvida com React, TypeScript, Vite e NestJS, com si
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nestjs,mysql,tailwind,bootstrap,git&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imgabrielimartins&theme=radical&ring=ff1493&fire=ff69b4&currStreakLabel=ff69b4" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=✨%20Code.%20Create.%20Impact.%20✨&fontSize=28&fontColor=ff69b4&animation=twinkling" />
