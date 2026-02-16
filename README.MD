@@ -18,6 +18,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ff69b4&height=60&section=header" />
+
 # 💖 Sobre mim
 
 Desenvolvedora FullStack focada em construção de aplicações escaláveis, com atenção especial à experiência do usuário e arquitetura limpa.
