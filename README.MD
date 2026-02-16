@@ -21,6 +21,15 @@ Desenvolvedora FullStack focada em construção de aplicações escaláveis, com
 - ⚡ Performance e boas práticas  
 - 🧠 Aprendizado contínuo e resolução estratégica de problemas  
 
+<details>
+  <summary>✨ More About My Journey</summary>
+
+  - Experiência com projetos acadêmicos aplicando boas práticas
+  - Evolução constante em arquitetura e performance
+  - Foco em construir soluções escaláveis e bem estruturadas
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
 
 # 🏆 Certificações & Formação
