@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/Clean-Architecture-ff1493?style=for-the-badge" />
 </p>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ff69b4&height=60&section=header" />
 
 # 💖 Sobre mim
@@ -77,6 +75,8 @@ Aplicação Full Stack desenvolvida com React, TypeScript, Vite e NestJS, com si
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,nestjs,mysql,tailwind,bootstrap,git&theme=dark" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=2&section=header" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=imgabrielimartins&theme=radical&ring=ff1493&fire=ff69b4&currStreakLabel=ff69b4" />
